@@ -10,8 +10,12 @@
 
 ###
 
-<p align="left">🎇 I’m a 2nd-year engineering student passionate about learning, building, and pushing the limits of what I can create with code 💻🚀. I love exploring innovative tech and turning ideas into something real—whether it’s a small script, a cool project, or a random “what if?” experiment ✨🔧.<br>💡 I’m obsessed with algorithms and data structures (yes, I’m that person who gets excited when a solution finally hits 😌⚡), and I’m always exploring new programming languages, tools, and tech—it’s basically my version of a treasure hunt ⚙️🔍🤖🔧.
-<br>🚀 Right now, I’m leveling up my skills in C++ 🔷 and Java ☕, and diving deeper into the world of data science 📊🔍—because making sense of data feels like solving a giant, nerdy mystery 🕵️‍♂️🧩. Web development is still in the mix, but more as a fun side hobby I go back to when I need a creative break 🎨🌐.<br>✨ Fun fact: I’m a puzzle and brain-teaser addict 🧩🤯. Give me a tricky riddle or a tough logic puzzle, and I’ll probably disappear into it until I crack it 🕳️🕵️‍♂️. It’s the perfect workout for keeping my coding instincts sharp ⚡🤓.<br>✨ Overall: learning, building, and getting lost in tech is my aesthetic 🌙💫💻.</p>
+<p align="left">🎇 I’m a 2nd-year engineering student passionate about learning, building, and pushing the limits of what I can create with code 💻🚀. I love exploring innovative tech and turning ideas into something real—whether it’s a small script, a cool project, or a random “what if?” experiment ✨🔧.<br><br>
+💡 I’m obsessed with algorithms and data structures (yes, I’m that person who gets excited when a solution finally hits 😌⚡), and I’m always exploring new programming languages, tools, and tech—it’s basically my version of a treasure hunt ⚙️🔍🤖🔧.
+<br><br>
+🚀 Right now, I’m leveling up my skills in C++ 🔷 and Java ☕, and diving deeper into the world of data science 📊🔍—because making sense of data feels like solving a giant, nerdy mystery 🕵️‍♂️🧩. Web development is still in the mix, but more as a fun side hobby I go back to when I need a creative break 🎨🌐.<br><br>
+🧩 Fun fact: I’m a puzzle and brain-teaser addict 🧩🤯. Give me a tricky riddle or a tough logic puzzle, and I’ll probably disappear into it until I crack it 🕳️🕵️‍♂️. It’s the perfect workout for keeping my coding instincts sharp ⚡🤓.<br><br>
+✨ Overall: learning, building, and getting lost in tech is my aesthetic 🌙💫💻.</p>
 
 ###
 
